@@ -10,12 +10,6 @@ I used the following websites to compress and sort them into one file 📄:
 * [The Alphabetizer](https://alphabetizer.flap.tv/) 
 * [Convert Case](https://convertcase.net/)
 
- ### **Details** 🔢
-  * 174343 entries or lines
-  * 175312 to 176011 words
-  * 1667519 characters
-
-
 ### **Types** 📂
 I have provided the compilation in various forms:
 * [Capitalized Case](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_capitalized.txt)
@@ -24,3 +18,7 @@ I have provided the compilation in various forms:
 * [aLtErNaTiNg cAsE](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_alternating.txt)
 * [InVeRsE CaSe](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_inverse.txt)
 
+ ### **Details** 🔢
+  * 174343 entries or lines
+  * 175312 to 176011 words
+  * 1667519 characters
