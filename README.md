@@ -18,9 +18,9 @@ I used the following websites to compress and sort them into one file 📄:
 
 ### **Types** 📂
 I have provided the compilation in various forms:
-* Capitalized Case
-* UPPER CASE
-* lower case
-* aLtErNaTiNg cAsE
-* InVeRsE CaSe
+* [Capitalized Case](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_capitalized.txt)
+* [UPPER CASE](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_upper.txt)
+* [lower case](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_lower.txt)
+* [aLtErNaTiNg cAsE](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_alternating.txt)
+* [InVeRsE CaSe](https://raw.githubusercontent.com/pendraic/random-dictionary/main/dictionary_inverse.txt)
 
